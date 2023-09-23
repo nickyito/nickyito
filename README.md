@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yusuke Ito
+Hi👋 My name is Yusuke Ito
 ==================================================================================================================================
 
 Full-Stack Web Developer
@@ -13,9 +13,6 @@ An enthusiastic Full-Stack Developer with 2 years of experience, including roles
 * 🧠  Learning Data Structures & Algorithms
 * 🤝  Open to collaborating on TypeScript projects
 * 🥃  Whisky Lover
-
-<img
-src="https://img.shields.io/github/followers/uskayyyyy?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 
 ### Skills
 
@@ -111,23 +108,15 @@ src="https://img.shields.io/github/followers/uskayyyyy?logo=github&style=for-the
 
 <img src="https://github-readme-stats.vercel.app/api?username=uskayyyyy&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="uskayyyyy's GitHub stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=uskayyyyy&stroke=ffffff&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=uskayyyyy&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
-</a>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uskayyyyy&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 
-<br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br />
 
 ### Support Me
 
-<ul style="list-style-type: none; margin: 0; display: flex; gap: 10px;">
-    <li style="display: inline-block; margin-right: 0.25rem;">
-        <a href="https://www.buymeacoffee.com/uskayyyyy">
-            <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
-        </a>
-    </li>
-    <li style="display: inline-block; margin-right: 0.25rem;">
-        <a href="https://www.ko-fi.com/uskayyyyy">
-            <img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="200"/>
-        </a>
-    </li>
-</ul>
+<a href="https://www.buymeacoffee.com/uskayyyyy">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
+</a>
+<a href="https://www.ko-fi.com/uskayyyyy">
+    <img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="200"/>
+</a>
