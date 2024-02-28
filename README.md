@@ -1,7 +1,7 @@
-Hi👋 My name is Yusuke Ito
+Hi👋 My name is Nick
 ==================================================================================================================================
 
-Full-Stack Web Developer
+Front-End Web Developer
 ------------------------
 
 An enthusiastic Full-Stack Developer with 2 years of experience, including roles as a tech lead engineer and in PR review. Proficient in modern development practices utilizing TypeScript and Next.js in the Web 3.0 domain, and well-versed in AWS infrastructure management and SQL database design. Passionate about the art of coding, eager to foster professional growth in my next position.
