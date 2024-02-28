@@ -26,7 +26,7 @@ An enthusiastic Full-Stack Developer with 2 years of experience, including roles
     <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
         <picture>
             <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg">
-            <source media="(prefers-color-scheme: dark)" srcset="https://github.com/uskayyyyy/uskayyyyy/assets/99148565/7867bfe7-998f-4dcd-a5aa-971667f8db62">
+            <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nick-y-ito/nick-y-ito/assets/99148565/7867bfe7-998f-4dcd-a5aa-971667f8db62">
             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" />
         </picture>
     </a>
@@ -39,7 +39,7 @@ An enthusiastic Full-Stack Developer with 2 years of experience, including roles
     <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
         <picture>
             <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg">
-            <source media="(prefers-color-scheme: dark)" srcset="https://github.com/uskayyyyy/uskayyyyy/assets/99148565/2a18b216-5976-4668-a568-b61cff034ef3">
+            <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nick-y-ito/nick-y-ito/assets/99148565/2a18b216-5976-4668-a568-b61cff034ef3">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" />
     </a>
     <a href="https://www.php.net/" target="_blank" rel="noreferrer">
