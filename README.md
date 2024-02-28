@@ -65,7 +65,7 @@ An enthusiastic Full-Stack Developer with 2 years of experience, including roles
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
         <picture>
             <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg">
-            <source media="(prefers-color-scheme: dark)" srcset="https://github.com/uskayyyyy/uskayyyyy/assets/99148565/7a64423b-753a-4edd-bcc3-121720f88739">
+            <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nick-y-ito/nick-y-ito/assets/99148565/7a64423b-753a-4edd-bcc3-121720f88739">
             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" />
         </picture>
     </a>
@@ -89,21 +89,21 @@ An enthusiastic Full-Stack Developer with 2 years of experience, including roles
 
 ### Contact Me 🤙
 <p align="left">
-  <a href="https://www.linkedin.com/in/uskayyyyy" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/nick-y-ito" target="_blank" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/uskayyyyy/uskayyyyy/assets/99148565/7a771a7c-a103-41e9-b490-160d9e2af9a5" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nick-y-ito/nick-y-ito/assets/99148565/7a771a7c-a103-41e9-b490-160d9e2af9a5" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />      
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
     </picture>
   </a>
-  <a href="https://www.x.com/uskayyyyy" target="_blank" rel="noreferrer">
+  <a href="https://www.x.com/nick-y-ito" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
     </picture>
   </a>
-  <a href="https://discord.com/users/uskayyyyy" target="_blank" rel="noreferrer">
+  <a href="https://discord.com/users/nick-y-ito" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
   </a>
 </p>
@@ -112,10 +112,10 @@ An enthusiastic Full-Stack Developer with 2 years of experience, including roles
 
 <b>My GitHub Stats</b>
 
-<img src="https://github-readme-stats.vercel.app/api?username=uskayyyyy&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="uskayyyyy's GitHub stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=uskayyyyy&stroke=ffffff&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=uskayyyyy&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uskayyyyy&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=nick-y-ito&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="nick-y-ito's GitHub stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nick-y-ito&stroke=ffffff&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nick-y-ito&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nick-y-ito&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 
 <br /><br /><br />
 
