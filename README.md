@@ -8,10 +8,8 @@ An enthusiastic Full-Stack Developer with 2 years of experience, including roles
 
 * 🇨🇦  Based in Vancouver, Canada
 * ✉️  You can contact me at [nick.yusuke.ito@gmail.com](mailto:nick.yusuke.ito@gmail.com)
-* 🚀  Currently working on [Oasys Hub](http://hub.oasys.games/)
-* 🧠  Learning Data Structures & Algorithms
+* 🚀  Currently working on [Nishiki](https://github.com/nishiki-tech/nishiki-frontend/)
 * 🤝  Open to collaborating on TypeScript projects
-* 🥃  Whisky Lover
 
 ### Skills
 
