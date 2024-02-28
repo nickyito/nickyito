@@ -7,8 +7,7 @@ Front-End Web Developer
 An enthusiastic Full-Stack Developer with 2 years of experience, including roles as a tech lead engineer and in PR review. Proficient in modern development practices utilizing TypeScript and Next.js in the Web 3.0 domain, and well-versed in AWS infrastructure management and SQL database design. Passionate about the art of coding, eager to foster professional growth in my next position.
 
 * 🇨🇦  Based in Vancouver, Canada
-* 🖥️  Please see my portfolio at [https://u-skayyyyy.com](http://u-skayyyyy)
-* ✉️  You can contact me at [u.skayyyyy@gmail.com](mailto:u.skayyyyy@gmail.com)
+* ✉️  You can contact me at [nick.yusuke.ito@gmail.com](mailto:nick.yusuke.ito@gmail.com)
 * 🚀  Currently working on [Oasys Hub](http://hub.oasys.games/)
 * 🧠  Learning Data Structures & Algorithms
 * 🤝  Open to collaborating on TypeScript projects
