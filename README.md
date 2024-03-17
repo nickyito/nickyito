@@ -4,7 +4,8 @@ Hi👋 My name is Nick
 Front-End Web Developer
 ------------------------
 
-An enthusiastic Full-Stack Developer with 3 years of experience, including roles as a tech lead engineer and in PR review. Proficient in modern development practices utilizing TypeScript and Next.js in the Web 3.0 domain, and well-versed in AWS infrastructure management and SQL database design. Passionate about the art of coding, eager to foster professional growth in my next position.
+A dedicated Web Developer with 3 years of experience specializing in front-end development using <strong>TypeScript, Next.js, and React.js</strong> as core tech stack. I have initiated and led an Open Source Software (OSS) project, managing a team consisting of 6 engineers and 3 designers, highlighting my capabilities in team management and collaboration with contributors. My background also includes full-stack web development and infrastructure design with PHP, JavaScript, MySQL, and AWS, allowing for a versatile approach to development tasks.
+
 
 * 🇨🇦  Based in Vancouver, Canada
 * ✉️  You can contact me at [nick.yusuke.ito@gmail.com](mailto:nick.yusuke.ito@gmail.com)
@@ -48,7 +49,6 @@ An enthusiastic Full-Stack Developer with 3 years of experience, including roles
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
     </a>
-    <br />
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
         <img src="https://github.com/nick-y-ito/nick-y-ito/assets/99148565/acd228a5-2d02-45fc-9e52-cf1eeefcdbf6" width="36" height="" alt="Tailwind CSS" />
     </a>
@@ -61,7 +61,6 @@ An enthusiastic Full-Stack Developer with 3 years of experience, including roles
         <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" />
     </a>
-    <br />
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
         <picture>
             <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg">
@@ -75,7 +74,6 @@ An enthusiastic Full-Stack Developer with 3 years of experience, including roles
     <a href="https://www.linux.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
     </a>
-    <br />
     <a href="https://metamask.io/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" />
     </a>
