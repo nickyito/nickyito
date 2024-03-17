@@ -8,7 +8,7 @@ A dedicated Web Developer with 3 years of experience specializing in front-end d
 
 
 * 🇨🇦  Based in Vancouver, Canada
-* ✉️  You can contact me at [nick.yusuke.ito@gmail.com](mailto:nick.yusuke.ito@gmail.com) or via [LinkedIn](https://www.linkedin.com/in/nick-y-ito)
+* ✉️  You can contact me via e-mail ([nick.yusuke.ito@gmail.com](mailto:nick.yusuke.ito@gmail.com)) or [LinkedIn](https://www.linkedin.com/in/nick-y-ito)
 * 🚀  Founder of [Nishiki](https://github.com/nishiki-tech/nishiki-frontend/), an OSS project, and currently working on it in my spate time
 * 🤝  Open to collaborating on TypeScript and/or React.js projects
 
@@ -87,6 +87,11 @@ A dedicated Web Developer with 3 years of experience specializing in front-end d
 
 ### Contact Me 🤙
 <p align="left">
+  <a href="mailto:nick.yusuke.ito@gmail.com" target="_blank" rel="noreferrer">
+    <picture>
+      <img src="https://github.com/nick-y-ito/nick-y-ito/assets/99148565/e754a178-724a-48f9-a1cf-54dc95cc84a2" width="32" height="32" />
+    </picture>
+  </a>
   <a href="https://www.linkedin.com/in/nick-y-ito" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nick-y-ito/nick-y-ito/assets/99148565/7a771a7c-a103-41e9-b490-160d9e2af9a5" />
