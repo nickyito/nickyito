@@ -10,7 +10,7 @@ A dedicated Web Developer with 3 years of experience specializing in front-end d
 * 🇨🇦  Based in Vancouver, Canada
 * ✉️  You can contact me at [nick.yusuke.ito@gmail.com](mailto:nick.yusuke.ito@gmail.com)
 * 🚀  Currently working on [Nishiki](https://github.com/nishiki-tech/nishiki-frontend/)
-* 🤝  Open to collaborating on TypeScript projects
+* 🤝  Open to collaborating on TypeScript and/or React.js projects
 
 ### Skills
 
