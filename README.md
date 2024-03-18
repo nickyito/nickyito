@@ -4,7 +4,7 @@ Hi👋 My name is Nick
 Front-End Web Developer
 ------------------------
 
-A dedicated Web Developer with 3 years of experience specializing in front-end development using <strong>TypeScript, Next.js, and React.js</strong> as core tech stack. I have initiated and led an Open Source Software (OSS) project, managing a team consisting of 6 engineers and 3 designers, highlighting my capabilities in team management and collaboration with contributors. My background also includes full-stack web development and infrastructure design with PHP, JavaScript, MySQL, and AWS, allowing for a versatile approach to development tasks.
+A dedicated Web Developer with 3 years of experience, specializing in front-end development with TypeScript, React.js, and Next.js as my core tech stack. My expertise extends to back-end and full-stack web development, as well as infrastructure design with PHP, JavaScript, MySQL, and AWS. I tackle every coding challenge with keen problem-solving skills and critical thinking. Additionally, I possess strong abilities in both communication and teamwork, along with proven leadership and team management expertise.
 
 
 * 🇨🇦  Based in Vancouver, Canada
