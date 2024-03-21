@@ -4,10 +4,11 @@ Hi👋 My name is Nick
 Full Stack Web Developer
 ------------------------
 
-A dedicated Web Developer with 3 years of experience, specializing in front-end development with TypeScript, React.js, and Next.js as my core tech stack. My expertise extends to back-end and full-stack web development, as well as infrastructure design with PHP, JavaScript, MySQL, and AWS. I tackle every coding challenge with keen problem-solving skills and critical thinking. Additionally, I possess strong abilities in both communication and teamwork, along with proven leadership and team management expertise.
+A dedicated Web Developer with 3 years of experience, specializing in front-end development with <strong>TypeScript, React.js, and Next.js</strong> as my core tech stack. My expertise extends to back-end and full-stack web development, as well as infrastructure design with PHP, JavaScript, MySQL, and AWS. I tackle every coding challenge with keen problem-solving skills and critical thinking. Additionally, I possess strong abilities in both communication and teamwork, along with proven leadership and team management expertise.
 
 
 * 🇨🇦  Based in Vancouver, Canada
+* 👨‍💻 <strong>Open to work</strong> either on-site or remotely
 * ✉️  You can contact me via [email](mailto:nick.yusuke.ito@gmail.com) or [LinkedIn](https://www.linkedin.com/in/nick-y-ito)
 * 🚀  Founder of [Nishiki](https://github.com/nishiki-tech/nishiki-frontend/), an OSS project, and currently working on it in my spare time
 * 🤝  Open to collaborating on TypeScript and/or React.js projects
