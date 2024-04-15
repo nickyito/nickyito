@@ -12,7 +12,7 @@ A dedicated Web Developer with 3 years of experience, specializing in front-end 
 * ✉️  You can contact me via [email](mailto:nick.yusuke.ito@gmail.com) or [LinkedIn](https://www.linkedin.com/in/nick-y-ito)
 * 🚀  Founder of [Nishiki](https://github.com/nishiki-tech/nishiki-frontend/), an OSS project, and currently working on it in my spare time
 * 🤝  Open to collaborating on TypeScript and/or React.js projects
-
+https://github.com/nick-y-ito
 ### Skills
 
 <p align="left">
@@ -100,13 +100,13 @@ A dedicated Web Developer with 3 years of experience, specializing in front-end 
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
     </picture>
   </a>
-  <a href="https://www.x.com/nick-y-ito" target="_blank" rel="noreferrer">
+<!--  <a href="https://www.x.com/nick-y-ito" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
     </picture>
-  </a>
+  </a> -->
   <a href="https://discord.com/users/nick-y-ito" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
   </a>
