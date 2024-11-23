@@ -6,7 +6,7 @@ Hi👋 My name is Nick
 Full Stack Engineer
 ------------------------
 
-A dedicated Full Stack Web Developer with 3+ years of work experience, specializing in front-end development with TypeScript, React.js and Next.js. My expertise extends to back-end development and infrastructure management with AWS and Terraform. I tackle every coding challenge with keen problem-solving skills and critical thinking. Additionally, I possess strong abilities in both communication and teamwork, along with proven leadership and ownership of every project.
+A dedicated Full Stack Web Developer with 4 years of work experience, specializing in front-end development with TypeScript, React.js and Next.js. My expertise extends to back-end development and infrastructure management with AWS and Terraform. I tackle every coding challenge with keen problem-solving skills and critical thinking. Additionally, I possess strong abilities in both communication and teamwork, along with proven leadership and ownership of every project.
 
 
 * 🇨🇦  Based in Vancouver, Canada.
