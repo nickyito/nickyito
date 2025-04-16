@@ -12,7 +12,7 @@ A dedicated Full Stack Web Developer with 4 years of work experience, specializi
 * 🇨🇦  Based in Vancouver, Canada.
 * 👨‍💻 <strong>Open to work</strong> either on-site or remotely in Canada.
 * ✉️  You can contact me via [email](mailto:nick.yusuke.ito@gmail.com) or [LinkedIn](https://www.linkedin.com/in/nick-y-ito).
-* 🚀 Founder/Organizer of [Nishiki](https://github.com/nishiki-tech/nishiki-frontend/), an OSS project. Only working on it in my spare time.
+* 🚀 Organizer of [Nishiki](https://github.com/nishiki-tech/nishiki-frontend/), an OSS project. Only working on it in my spare time.
 * 🤝 Open to collaborating on <strong>TypeScript, React.js, Node.js and AWS</strong> projects.
 
 ### Skills
