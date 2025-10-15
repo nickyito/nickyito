@@ -9,8 +9,7 @@ Full Stack Engineer
 A dedicated Full Stack Web Developer with 4 years of work experience, specializing in front-end development with TypeScript, React.js and Next.js. My expertise extends to back-end development and infrastructure management with AWS and Terraform. I tackle every coding challenge with keen problem-solving skills and critical thinking. Additionally, I possess strong abilities in both communication and teamwork, along with proven leadership and ownership of every project.
 
 
-* 🇨🇦  Based in Vancouver, Canada.
-* 👨‍💻 <strong>Open to work</strong> either on-site or remotely in Canada.
+* 🇨🇦  Based in Toronto, Canada.
 * ✉️  You can contact me via [email](mailto:nick.yusuke.ito@gmail.com) or [LinkedIn](https://www.linkedin.com/in/nick-y-ito).
 * 🚀 Organizer of [Nishiki](https://github.com/nishiki-tech/nishiki-frontend/), an OSS project. Only working on it in my spare time.
 * 🤝 Open to collaborating on <strong>TypeScript, React.js, Node.js and AWS</strong> projects.
