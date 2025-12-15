@@ -1,4 +1,4 @@
-Hi👋 My name is Nick
+Hi👋 My name is Yusuke (a.k.a. Nick).
 ==================================================================================================================================
 
 *Currently, mainly working on AWS CodeCommit*
@@ -9,14 +9,21 @@ Full Stack Engineer
 A dedicated Full Stack Web Developer with 4 years of work experience, specializing in front-end development with TypeScript, React.js and Next.js. My expertise extends to back-end development and infrastructure management with AWS and Terraform. I tackle every coding challenge with keen problem-solving skills and critical thinking. Additionally, I possess strong abilities in both communication and teamwork, along with proven leadership and ownership of every project.
 
 
-* 🇨🇦  Based in Toronto, Canada.
-* ✉️  You can contact me via [email](mailto:nick.yusuke.ito@gmail.com) or [LinkedIn](https://www.linkedin.com/in/nickyito).
+* 🇨🇦 Based in Toronto, Canada and working for AWS Canada.
+* ✉️ You can contact me via [email](mailto:nick.yusuke.ito@gmail.com) or [LinkedIn](https://www.linkedin.com/in/nickyito).
 * 🚀 Organizer of [Nishiki](https://github.com/nishiki-tech/nishiki-frontend/), an OSS project. Only working on it in my spare time.
 * 🤝 Open to collaborating on <strong>TypeScript, React.js, Node.js and AWS</strong> projects.
 
 ### Skills
 
 <p align="left">
+    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+        <picture>
+            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg">
+            <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nickyito/nickyito/assets/99148565/7a64423b-753a-4edd-bcc3-121720f88739">
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" />
+        </picture>
+    </a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
     </a>
@@ -62,13 +69,6 @@ A dedicated Full Stack Web Developer with 4 years of work experience, specializi
     </a>
         <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" />
-    </a>
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-        <picture>
-            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg">
-            <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nickyito/nickyito/assets/99148565/7a64423b-753a-4edd-bcc3-121720f88739">
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" />
-        </picture>
     </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
