@@ -1,17 +1,14 @@
 Hi👋 My name is Yusuke (a.k.a. Nick).
 ==================================================================================================================================
 
-*Currently, mainly working on AWS CodeCommit*
-
 Full Stack Engineer
 ------------------------
 
-A dedicated Full Stack Web Developer with 4 years of work experience, specializing in front-end development with TypeScript, React.js and Next.js. My expertise extends to back-end development and infrastructure management with AWS and Terraform. I tackle every coding challenge with keen problem-solving skills and critical thinking. Additionally, I possess strong abilities in both communication and teamwork, along with proven leadership and ownership of every project.
+A dedicated Full Stack Web Developer with 5 years of work experience, specializing in front-end development with TypeScript, React.js and Next.js. My expertise extends to back-end development and infrastructure management with AWS and Terraform. I tackle every coding challenge with keen problem-solving skills and critical thinking. Additionally, I possess strong abilities in both communication and teamwork, along with proven leadership and ownership of every project.
 
 
-* 🇨🇦 Based in Toronto, Canada and working for AWS Canada.
+* 🇯🇵 Based in Japan and currently working for AWS (as of Mar 25, 2026).
 * ✉️ You can contact me via [email](mailto:nick.yusuke.ito@gmail.com) or [LinkedIn](https://www.linkedin.com/in/nickyito).
-* 🚀 Organizer of [Nishiki](https://github.com/nishiki-tech/nishiki-frontend/), an OSS project. Only working on it in my spare time.
 * 🤝 Open to collaborating on <strong>TypeScript, React.js, Node.js and AWS</strong> projects.
 
 ### Skills
